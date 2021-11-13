@@ -15,5 +15,7 @@ Prof. Azim
 ### click on an entry to view, update or delete </br>
 ![image](https://user-images.githubusercontent.com/51350929/141661507-cdc40bb0-6d37-4bfe-b1ee-161b746d6d54.png)
 
+### click on + sign to add new entry </br>
+![image](https://user-images.githubusercontent.com/51350929/141661516-1e59f08b-20bf-4509-b2a7-5754758763b6.png)
 
 
