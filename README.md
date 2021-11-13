@@ -3,18 +3,15 @@
 
 Prof. Azim
 
-![image](https://user-images.githubusercontent.com/51350929/141661433-a6478267-e5bc-4c02-b277-cc4d0fdaf031.png)
-
+### new installation, empty lists
+<img width="327" alt="Screen Shot 2021-11-13 at 5 58 20 PM" src="https://user-images.githubusercontent.com/51350929/141661568-1c4de230-4098-46fe-beeb-29023f750468.png">
 ### populate pre-load coordinates </br>
-![image](https://user-images.githubusercontent.com/51350929/141661452-a5b62841-b004-4fd0-940a-e8dd40233497.png)
-
+<img width="331" alt="Screen Shot 2021-11-13 at 5 58 47 PM" src="https://user-images.githubusercontent.com/51350929/141661563-9795aa59-b437-4f58-86f6-23f970e63920.png">
 ### search address with keyword "toronto" </br>
-![image](https://user-images.githubusercontent.com/51350929/141661476-d3212f9b-c22e-4bc6-b815-8f2542ddbed4.png)
-
+<img width="330" alt="Screen Shot 2021-11-13 at 6 00 01 PM" src="https://user-images.githubusercontent.com/51350929/141661560-adf4c8c5-eae2-43e7-a71e-ef6ba31ef177.png">
 
 ### click on an entry to view, update or delete </br>
-![image](https://user-images.githubusercontent.com/51350929/141661507-cdc40bb0-6d37-4bfe-b1ee-161b746d6d54.png)
-
+<img width="331" alt="Screen Shot 2021-11-13 at 6 02 34 PM" src="https://user-images.githubusercontent.com/51350929/141661555-104fe298-2510-4da4-b717-d8905dd6e98e.png">
 ### click on + sign to add new entry </br>
 ![image](https://user-images.githubusercontent.com/51350929/141661535-d0590cb7-c3fc-4b59-a34a-8873074cf7fa.png)
 
