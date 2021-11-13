@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/countryListActivity">
+
+    <activity
+        android:id="@+id/countryListActivity"
+        android:name="com.example.GEOCoder.CountryListActivity"
+        android:label="CountryListActivity" />
+    <activity
+        android:id="@+id/addCountryActivity"
+        android:name="com.example.GEOCoder.AddCountryActivity"
+        android:label="AddCountryActivity" />
+</navigation>
