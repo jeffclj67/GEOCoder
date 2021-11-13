@@ -1,9 +1,9 @@
 # GEOCoder
 ## Mobile Application Assignment 2 - LocationFinder app
 
-Prof. Azim
+Prof. Azim </br>
 
-### new installation, empty lists </br>
+### new installation, empty lists
 <img width="327" alt="Screen Shot 2021-11-13 at 5 58 20 PM" src="https://user-images.githubusercontent.com/51350929/141661568-1c4de230-4098-46fe-beeb-29023f750468.png">
 ### populate pre-load coordinates </br>
 <img width="331" alt="Screen Shot 2021-11-13 at 5 58 47 PM" src="https://user-images.githubusercontent.com/51350929/141661563-9795aa59-b437-4f58-86f6-23f970e63920.png">
