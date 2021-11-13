@@ -18,6 +18,5 @@ Prof. Azim
 ### click on + sign to add new entry </br>
 ![image](https://user-images.githubusercontent.com/51350929/141661535-d0590cb7-c3fc-4b59-a34a-8873074cf7fa.png)
 
-![image](https://user-images.githubusercontent.com/51350929/141661516-1e59f08b-20bf-4509-b2a7-5754758763b6.png)
-
+<img width="328" alt="Screen Shot 2021-11-13 at 6 03 00 PM" src="https://user-images.githubusercontent.com/51350929/141661540-ed031d0c-a4d0-4a5c-b245-c7258c75cf65.png">
 
