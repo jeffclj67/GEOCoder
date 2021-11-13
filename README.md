@@ -20,3 +20,6 @@ Prof. Azim </br>
 
 <img width="328" alt="Screen Shot 2021-11-13 at 6 03 00 PM" src="https://user-images.githubusercontent.com/51350929/141661540-ed031d0c-a4d0-4a5c-b245-c7258c75cf65.png">
 
+<img width="331" alt="Screen Shot 2021-11-13 at 6 14 23 PM" src="https://user-images.githubusercontent.com/51350929/141661699-67992ed7-fd2e-4cca-a3d7-746322c14d6b.png">
+
+<img width="335" alt="Screen Shot 2021-11-13 at 6 14 42 PM" src="https://user-images.githubusercontent.com/51350929/141661702-153942b1-cc12-4a4e-8cca-0cc6d40e6ee5.png">
