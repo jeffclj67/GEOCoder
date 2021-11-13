@@ -22,4 +22,5 @@
 
 <img width="331" alt="Screen Shot 2021-11-13 at 6 14 23 PM" src="https://user-images.githubusercontent.com/51350929/141661699-67992ed7-fd2e-4cca-a3d7-746322c14d6b.png">
 
+### coordinates and address are inserted to the database
 <img width="335" alt="Screen Shot 2021-11-13 at 6 14 42 PM" src="https://user-images.githubusercontent.com/51350929/141661702-153942b1-cc12-4a4e-8cca-0cc6d40e6ee5.png">
