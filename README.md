@@ -13,8 +13,7 @@ Prof. Azim
 
 
 ### click on an entry to view, update or delete </br>
-![image](https://user-images.githubusercontent.com/51350929/141661495-51fbb059-946b-4d86-9ffa-7b89b131233d.png)
-
+![image](https://user-images.githubusercontent.com/51350929/141661507-cdc40bb0-6d37-4bfe-b1ee-161b746d6d54.png)
 
 
 
