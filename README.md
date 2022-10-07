@@ -1,3 +1,4 @@
+An Android app can translate a list of address to Geographic coordinate using geolocation api. Also be able to search address from a pre defined list. 
 # GEOCoder
 ## Mobile Application Assignment 2 - LocationFinder app
 
